@@ -33,6 +33,12 @@ I'm Jakub Andrýsek, a high school student of informatics from the Czech Republi
 <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=jakubandrysek&padding=30&bg=%23484f58'>
 </a>
 
+<a href='https://profile.codersrank.io/user/jakubandrysek/'>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=jakubandrysek&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px">
+</a>
+
+
+
 
 <br/>  
 
