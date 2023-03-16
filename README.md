@@ -37,3 +37,24 @@ Most of my projects are open-source, and you can find them on my GitHub profile.
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubAndrysek&hide_border=true&layout=compact&count_private=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" /></div>
 
 </td></tr></table>
+
+# My projects
+
+## 📑 MkDoxy - MkDocs + Doxygen (easy documentation generator)
+- [Website](https://jakubandrysek.github.io/MkDoxy/)
+- [GitHub](https://github.com/JakubAndrysek/MkDoxy)
+
+## 🎮 PySpaceMouse - Python library for 3Dconnexion SpaceMouse
+- [Website](https://jakubandrysek.github.io/PySpaceMouse)
+- [GitHub](https://github.com/jakubandrysek/PySpaceMouse)
+
+## 🧦 Pletačka IoT (iSocks IoT) - IoT system for monitoring industrial production
+- [GitHub](https://github.com/Pletacka-IoT)
+- [Post on my blog (CZ)](https://kubaandrysek.cz/2021/06/12/soc-integrace)
+- [About me on the internet (CZ)](https://stisk.online/a/iib4p/davat-sanci-mladym-lidem-ma-smysl-rika-student-jakub-andrysek)
+
+## 📺 E-paper-board-ESP32 - Universal e-paper home display
+- [GitHub](https://github.com/JakubAndrysek/E-paper-board-ESP32)
+- [Website](https://jakubandrysek.github.io/E-paper-board-ESP32/)
+
+## [➕ More projects](https://github.com/JakubAndrysek?tab=repositories)
