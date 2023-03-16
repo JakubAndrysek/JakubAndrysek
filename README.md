@@ -1,4 +1,4 @@
-# Jakub Andrysek <a href="https://kubaandrysek.cz/"><img align="right" src="https://avatars.githubusercontent.com/u/33494544?s=400&v=4" width="100" /></a>
+# Jakub Andrysek <a href="https://kubaandrysek.cz/"><img align="right" src="https://avatars.githubusercontent.com/u/33494544?s=400&v=4" width="100" style="border-radius: 50%; "/></a>
 
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJakubAndrysek&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
@@ -23,7 +23,7 @@ Most of my projects are open-source, and you can find them on my GitHub profile.
 </div>
 
 ## Github Stats
-<table><tr><td valign="top" width="49%">
+<table align="center"><tr><td valign="top" width="49%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JakubAndrysek&show_icons=true&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" /></div>
 

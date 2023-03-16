@@ -1,6 +1,6 @@
-### Hi  
-I'm Jakub Andrýsek, a high school student of informatics from the Czech Republic. I'm usually building tools and products that make developers' and customers' lives easier.  
-  
+### Hi
+I'm Jakub Andrýsek, a high school student of informatics from the Czech Republic. I'm usually building tools and products that make developers' and customers' lives easier.
+
 
 <a href="https://github.com/JakubAndrysek" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -10,15 +10,15 @@ I'm Jakub Andrýsek, a high school student of informatics from the Czech Republi
 </a>
 <a href="https://linkedin.com/in/jakub-andrysek" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
+</a>
 
 
+<br/>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+
+
+## Github Stats
+<table ><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JakubAndrysek&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
@@ -26,7 +26,7 @@ I'm Jakub Andrýsek, a high school student of informatics from the Czech Republi
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubAndrysek&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
-</td></tr></table>  
+</td></tr></table>
 
 
 <a href='https://profile.codersrank.io/user/jakubandrysek/'>
@@ -40,8 +40,8 @@ I'm Jakub Andrýsek, a high school student of informatics from the Czech Republi
 
 
 
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JakubAndrysek&&style=flat-square" align="center" />
-</div>  
+</div>
