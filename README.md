@@ -12,14 +12,19 @@ Most of my projects are open-source, and you can find them on my GitHub profile.
 
 <div align="center">
 <a href="https://github.com/JakubAndrysek" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/KubaAndrysek" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jakub-andrysek" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://kubaandrysek.cz/" target="_blank">
+<img src="https://img.shields.io/static/v1?label=website&message=My portfolio&style=for-the-badge" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 ## Github Stats
