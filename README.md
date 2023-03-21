@@ -5,10 +5,13 @@
 </div>
 
 
-Hi, I'm Jacob, a high school student of computer science from the Czech Republic.
+Hi, I'm Jacob, a highschool student of computer science from the Czech Republic.
+
+I like programming, electronics, 3D modeling and robotics.
 I'm usually building tools and products that make developers' lives easier and more productive.
 I'm also a big fan of open-source software and hardware.
-Most of my projects are open-source, and you can find them on my GitHub profile.
+
+Most of my projects are open-source, and you can find them on my [GitHub](https://github.com/JakubAndrysek) profile.
 
 <div align="center">
 <a href="https://github.com/JakubAndrysek" target="_blank">
@@ -34,7 +37,7 @@ Most of my projects are open-source, and you can find them on my GitHub profile.
 
 </td><td valign="top" width="49%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubAndrysek&hide_border=true&layout=compact&count_private=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://wakatime.com/share/@KubaAndrysek/5699f997-0499-400f-b218-5c5eeaab4f13.svg" align="center" style="width: 100%" /></div>
 
 </td></tr></table>
 
