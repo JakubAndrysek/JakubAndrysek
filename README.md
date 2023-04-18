@@ -33,7 +33,7 @@ Most of my projects are open-source, and you can find them on my [GitHub](https:
 ## Github Stats
 <table align="center"><tr><td valign="top" width="49%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JakubAndrysek&show_icons=true&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats-five-iota-94.vercel.app/api?username=JakubAndrysek&show_icons=true&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="49%">
 
