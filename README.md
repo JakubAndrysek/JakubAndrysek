@@ -5,13 +5,13 @@
 </div>
 
 
-Hi, I'm Jacob, a highschool student of computer science from the Czech Republic.
+Hi, I'm Jakub Andrýsek but nearly everyone calls me Kuba.
 
-I like programming, electronics, 3D modeling and robotics.
-I'm usually building tools and products that make developers' lives easier and more productive.
-I'm also a big fan of open-source software and hardware.
+I am a high school computer science student from the Czech Republic passionate about programming, electronics, 3D modelling and robotics.
 
-Most of my projects are open-source, and you can find them on my [GitHub](https://github.com/JakubAndrysek) profile.
+I aim to build innovative tools and products that make developers' lives easier and more productive. I'm also a big fan of open-source software and hardware.
+
+Most of my projects are open-source; you can find them on my <a href="https://github.com/JakubAndrysek">GitHub</a> profile.
 
 <div align="center">
 <a href="https://github.com/JakubAndrysek" target="_blank">
