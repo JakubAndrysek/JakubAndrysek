@@ -4,10 +4,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJakubAndrysek&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 </div>
 
+Hi, I'm Jakub Andrýsek, but almost everyone calls me Kuba.
 
-Hi, I'm Jakub Andrýsek but nearly everyone calls me Kuba.
-
-I am a high school computer science student from the Czech Republic passionate about programming, electronics, 3D modelling and robotics.
+I am a university computer science student from the Czech Republic passionate about programming, electronics, 3D modelling and robotics.
 
 I aim to build innovative tools and products that make developers' lives easier and more productive. I'm also a big fan of open-source software and hardware.
 
@@ -44,20 +43,25 @@ Most of my projects are open-source; you can find them on my <a href="https://gi
 # My projects
 
 ## 📑 MkDoxy - MkDocs + Doxygen (easy documentation generator)
+Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files.
 - [Website](https://jakubandrysek.github.io/MkDoxy/)
 - [GitHub](https://github.com/JakubAndrysek/MkDoxy)
 
 ## 🎮 PySpaceMouse - Python library for 3Dconnexion SpaceMouse
+3Dconnexion Space Navigator in Python using raw HID (multi platform)
 - [Website](https://jakubandrysek.github.io/PySpaceMouse)
 - [GitHub](https://github.com/jakubandrysek/PySpaceMouse)
 
 ## 🧦 Pletačka IoT (iSocks IoT) - IoT system for monitoring industrial production
+iSocks IoT is a system for automatic monitoring of industrial production and its implementation in practice.
 - [GitHub](https://github.com/Pletacka-IoT)
 - [Post on my blog (CZ)](https://kubaandrysek.cz/2021/06/12/soc-integrace)
 - [About me on the internet (CZ)](https://stisk.online/a/iib4p/davat-sanci-mladym-lidem-ma-smysl-rika-student-jakub-andrysek)
 
-## 📺 E-paper-board-ESP32 - Universal e-paper home display
-- [GitHub](https://github.com/JakubAndrysek/E-paper-board-ESP32)
-- [Website](https://jakubandrysek.github.io/E-paper-board-ESP32/)
+## 🔌 More MkDocs plugins
+- ✂️ [mkdocs-resize-images](https://github.com/JakubAndrysek/mkdocs-resize-images) - MkDocs plugin to resize images according to the configuration
+- 🔮 [mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) -  This plugin adds JS to open outgoing links and PDFs in a new tab.
+- 📇 [mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) -  The Mkdocs-Typedoc Plugin is designed to integrate TypeDoc documentation with your MkDocs project.
+- 📂 [mkdocs-zip-folders](https://github.com/JakubAndrysek/mkdocs-zip-folders) -  MkDocs plugin to zip configured folders and add them to the site.
 
 ## [➕ More projects](https://github.com/JakubAndrysek?tab=repositories)
