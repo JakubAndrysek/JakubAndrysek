@@ -61,7 +61,7 @@ iSocks IoT is a system for automatic monitoring of industrial production and its
 ## 🔌 More MkDocs plugins
 - ✂️ [mkdocs-resize-images](https://github.com/JakubAndrysek/mkdocs-resize-images) - MkDocs plugin to resize images according to the configuration
 - 🔮 [mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) -  This plugin adds JS to open outgoing links and PDFs in a new tab.
-- 📇 [mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) -  The Mkdocs-Typedoc Plugin is designed to integrate TypeDoc documentation with your MkDocs project.
+- 📇 [mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) - Mkdocs plugin to generate documentation from TypeScript files using TypeDoc.
 - 📂 [mkdocs-zip-folders](https://github.com/JakubAndrysek/mkdocs-zip-folders) -  MkDocs plugin to zip configured folders and add them to the site.
 
 ## [➕ More projects](https://github.com/JakubAndrysek?tab=repositories)
