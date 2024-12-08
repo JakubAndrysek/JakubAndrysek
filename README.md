@@ -42,6 +42,12 @@ Most of my projects are open-source; you can find them on my <a href="https://gi
 
 # My projects
 
+<div align="center">
+  <a href="https://pypi.org/user/kuband/" target="_blank">
+    <img alt="Total downloads" src="https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fapi.kubaandrysek.cz%2Fpypi.php&query=%24.total_downloads_formatted&suffix=%20downloads&style=flat-square&logo=python&label=PyPI&cacheSeconds=1&link=https%3A%2F%2Fpypi.org%2Fuser%2Fkuband%2F">
+  </a>  
+</div>
+
 ## 📑 MkDoxy - MkDocs + Doxygen (easy documentation generator)
 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files.
 - [Website](https://jakubandrysek.github.io/MkDoxy/)
