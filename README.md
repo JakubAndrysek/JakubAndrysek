@@ -24,7 +24,7 @@ Most of my projects are open-source; you can find them on my <a href="https://gi
 </a>
 
 <a href="https://kubaandrysek.cz/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=website&message=My portfolio&style=for-the-badge" alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/My_Web-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fkubaandrysek.cz%2F" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 </div>
