@@ -30,9 +30,10 @@ Most of my projects are open-source; you can find them on my <a href="https://gi
 </div>
 
 ## Github Stats
+
 <table align="center"><tr><td valign="top" width="49%">
 
-<div align="center"><img src="https://github-readme-stats-five-iota-94.vercel.app/api?username=JakubAndrysek&show_icons=true&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" /></div>
+<div align="center"><img src="profile/stats.svg" align="center" style="width: 100%" alt="stats" /></div>
 
 </td><td valign="top" width="49%">
 
@@ -49,25 +50,32 @@ Most of my projects are open-source; you can find them on my <a href="https://gi
 </div>
 
 ## 📑 MkDoxy - MkDocs + Doxygen (easy documentation generator)
+
 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files.
+
 - [Website](https://jakubandrysek.github.io/MkDoxy/)
 - [GitHub](https://github.com/JakubAndrysek/MkDoxy)
 
 ## 🎮 PySpaceMouse - Python library for 3Dconnexion SpaceMouse
+
 3Dconnexion Space Navigator in Python using raw HID (multi platform)
+
 - [Website](https://jakubandrysek.github.io/PySpaceMouse)
 - [GitHub](https://github.com/jakubandrysek/PySpaceMouse)
 
 ## 🧦 Pletačka IoT (iSocks IoT) - IoT system for monitoring industrial production
+
 iSocks IoT is a system for automatic monitoring of industrial production and its implementation in practice.
+
 - [GitHub](https://github.com/Pletacka-IoT)
 - [Post on my blog (CZ)](https://kubaandrysek.cz/2021/06/12/soc-integrace)
 - [About me on the internet (CZ)](https://stisk.online/a/iib4p/davat-sanci-mladym-lidem-ma-smysl-rika-student-jakub-andrysek)
 
 ## 🔌 More MkDocs plugins
+
 - ✂️ [mkdocs-resize-images](https://github.com/JakubAndrysek/mkdocs-resize-images) - MkDocs plugin to resize images according to the configuration
-- 🔮 [mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) -  This plugin adds JS to open outgoing links and PDFs in a new tab.
+- 🔮 [mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) - This plugin adds JS to open outgoing links and PDFs in a new tab.
 - 📇 [mkdocs-typedoc](https://github.com/JakubAndrysek/mkdocs-typedoc) - Mkdocs plugin to generate documentation from TypeScript files using TypeDoc.
-- 📂 [mkdocs-zip-folders](https://github.com/JakubAndrysek/mkdocs-zip-folders) -  MkDocs plugin to zip configured folders and add them to the site.
+- 📂 [mkdocs-zip-folders](https://github.com/JakubAndrysek/mkdocs-zip-folders) - MkDocs plugin to zip configured folders and add them to the site.
 
 ## [➕ More projects](https://github.com/JakubAndrysek?tab=repositories)
