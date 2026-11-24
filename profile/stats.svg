@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kuba Andr&#253;sek&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 447, Total Commits  (last year) : 1697, Total PRs: 258, Total Issues: 139, Contributed to (last year): 33</desc>
+        <desc id="descId">Total Stars Earned: 447, Total Commits  (last year) : 1720, Total PRs: 258, Total Issues: 139, Contributed to (last year): 33</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 29.09062722646634;
+        stroke-dashoffset: 29.067209944160503;
       }
     }
   
